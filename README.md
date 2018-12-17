@@ -1,2 +1,2 @@
 # bootstrap-portfolio
-Portfolio developed using bootstrap frameworl
+Portfolio developed using bootstrap framework
